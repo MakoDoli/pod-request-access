@@ -1,0 +1,34 @@
+@media screen and (min-width: 1050px) {
+  footer {
+    height: 130px;
+  }
+  .dots {
+    right: 0;
+    top: -54px;
+  }
+  main {
+    background: url("./assets/desktop/image-host.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 130px;
+    background-color: #121725;
+    align-items: baseline;
+    background-size: contain;
+  }
+  .logo-container {
+    margin-left: 165px;
+    margin-bottom: 80px;
+    margin-top: -30px;
+  }
+  .main-info {
+    padding-top: 88px;
+    width: 723px;
+    padding-right: 0;
+    height: 509px;
+  }
+  h1,
+  h2 {
+    font-size: 52px;
+    line-height: 62px;
+  }
+}
